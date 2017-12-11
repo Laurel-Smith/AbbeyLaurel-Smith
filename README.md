@@ -27,6 +27,6 @@ And generally for the United Srates homeland, I will deploy ambient technology a
 <li>turn our cities and every single communal settlements all over the United states into digitally driven smart cities.</li>
 <li>improvesurvival, reach, capability and efficiency of our military and law enforcement officials.</li></p>
 
-<p><b>So, put me in charge and see how I ReBuildUSatoday!</b></p>
+<p><b><h2>So, put me in charge and see me ReBuildUSatoday!</h2></b></p>
 
 <p><b>Elect me as the 46th President and I will not only act to protect family budgets, I will boost income for the middle class and improve state and city covers as I go.</b></p>

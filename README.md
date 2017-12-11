@@ -3,7 +3,7 @@
 A plan to ReBuildCalifornia, America's west and the south western states with technology
 https://laurel-smith.github.io/SmithieGoesWest
 
-"Put me in charge!"
+<h2>"Put me in charge!"</h2>
 
 My name is Abbey Samuel Laurel-Smith, and i plan to use data and tehnology to ReBuildUSAtoday. But who am i? Well, I am a Radical Republican, 
 and i believe in the values of reconstruction and the benefit such an act brings to the economy, the middle class and the American family. Or 
@@ -33,7 +33,6 @@ build roads, buildings, bridges and light our cities with ecologically certified
 turn our cities and every single communal settlements all over the United states into digitally driven smart cities.
 improvesurvival, reach, capability and efficiency of our military and law enforcement officials.
 
-So, put me in charge and see how I ReBuildUSatoday!
+<p><b>So, put me in charge and see how I ReBuildUSatoday!</b></p>
 
-Elect me as the 46th President and I will not only act to protect family budgets, I will boost income for the middle class and improve state and city covers 
-as I go.
+<p><b>Elect me as the 46th President and I will not only act to protect family budgets, I will boost income for the middle class and improve state and city covers as I go.</b></p>

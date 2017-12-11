@@ -17,7 +17,7 @@ To revitalize the economy, I will focus on regional needs, take certain steps an
 
 <li>For the coal states, I wll: ....... .......</li>
 
-<li>For the East Coast, the North and the North eastern states, I will: ...... ......</li>
+<li>For the East Coast, the North and the North eastern states, I will: ...... ......</li></p>
 
 And generally for the United Srates homeland, I will deploy ambient technology and ambience intelligence. With this type of system alone i will be able to:
 
@@ -25,7 +25,7 @@ And generally for the United Srates homeland, I will deploy ambient technology a
 <li>improve knowledge and accessibiity to the study of, the reasearch of, and the use of material technology in our schools.</li>
 <li>build roads, buildings, bridges and light our cities with ecologically certified materials.</li>
 <li>turn our cities and every single communal settlements all over the United states into digitally driven smart cities.</li>
-<li>improvesurvival, reach, capability and efficiency of our military and law enforcement officials.</li>
+<li>improvesurvival, reach, capability and efficiency of our military and law enforcement officials.</li></p>
 
 <p><b>So, put me in charge and see how I ReBuildUSatoday!</b></p>
 

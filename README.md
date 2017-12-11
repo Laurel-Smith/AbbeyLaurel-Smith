@@ -1,4 +1,5 @@
 #  schedule-template
+A simple template that lets you display events on a timeline, as well as organize them in groups (week days, conference rooms etc…)
 
 # SmithieGoesWest
 

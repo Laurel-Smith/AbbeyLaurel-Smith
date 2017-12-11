@@ -1,6 +1,6 @@
 # SmithieGoesWest
 
-A plan to ReBuildCalifornia, America's west and the south western states with technology
+<p>A plan to ReBuildCalifornia, America's west and the south western states with technology</p>
 https://laurel-smith.github.io/SmithieGoesWest
 
 <h1>"Put me in charge!"</h1>

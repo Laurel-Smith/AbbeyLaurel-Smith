@@ -29,4 +29,4 @@ And generally for the United Srates homeland, I will deploy ambient technology a
 
 <p><b><h2>So, put me in charge and see me ReBuildUSatoday!</h2></b></p>
 
-<p><b>Elect me as the 46th President and I will not only act to protect family budgets, I will boost income for the middle class and improve state and city covers as I go.</b></p>
+<p><b><h3>Elect me as the 46th President and I will not only act to protect family budgets, I will boost income for the middle class and improve state and city covers as I go.</h3></b></p>

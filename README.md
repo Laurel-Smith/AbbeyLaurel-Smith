@@ -1,9 +1,9 @@
 #  schedule-template
 A simple template that lets you display events on a timeline, as well as organize them in groups (week days, conference rooms etc…)
 
-# SmithieGoesWest
+# Abbey Laurel-Smith
 
-A plan to ReBuildCalifornia, America's west and the south western states with technology</br>
+My plan to ReBuildUSAtoday, ReBuildCalifornia, America's west and the south western states with technology</br>
 https://laurel-smith.github.io/SmithieGoesWest</br>
 @The46th_POTUS
 

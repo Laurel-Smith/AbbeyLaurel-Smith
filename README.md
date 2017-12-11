@@ -3,35 +3,29 @@
 A plan to ReBuildCalifornia, America's west and the south western states with technology
 https://laurel-smith.github.io/SmithieGoesWest
 
-<h2>"Put me in charge!"</h2>
+<h1>"Put me in charge!"</h1>
 
-My name is Abbey Samuel Laurel-Smith, and i plan to use data and tehnology to ReBuildUSAtoday. But who am i? Well, I am a Radical Republican, 
-and i believe in the values of reconstruction and the benefit such an act brings to the economy, the middle class and the American family. Or 
-let's just say, I believe and trust in the innovative ways of small businesses, the innovative spirit of the ordinary american and the 
-endurance of the middle class.
+My name is Abbey Samuel Laurel-Smith, and i plan to use data and tehnology to ReBuildUSAtoday. But who am i? Well, I am a Radical Republican, and i believe in the values of reconstruction and the benefit such an act brings to the economy, the middle class and the American family. Or let's just say, I believe and trust in the innovative ways of small businesses, the innovative spirit of the ordinary american and the endurance of the middle class.
 
-Therefore, for the benefit of commerce, agriculture, family budgets, revenue and homeland defense from long endurance weapons of mass destruction 
-and EMP attack, I plan to ReBuildUSAtoday by developing the Pacific (Princess Charllotte's lake) and the Gulf Coast better than we ever did the 
-Atlantic.
+Therefore, for the benefit of commerce, agriculture, family budgets, revenue and homeland defense from long endurance weapons of mass destruction and EMP attack, I plan to ReBuildUSAtoday by developing the Pacific (Princess Charllotte's lake) and the Gulf Coast better than we ever did the Atlantic.
 
-To revitalize the economy, I will focus on regional needs, take certain steps and implement community economic rejuvenation policies - that are 
-similar to those implemented for the prosperity of this nation after the civil war.
+To revitalize the economy, I will focus on regional needs, take certain steps and implement community economic rejuvenation policies - that are similar to those implemented for the prosperity of this nation after the civil war.
 
-For the West Coast states - California, Washington, Oregon, Utah and Nevada, I will: ...... ......
+<li>For the West Coast states - California, Washington, Oregon, Utah and Nevada, I will: ...... ......</li>
 
-For the Gulf Coast and the five south western states, I will: ....... .......
+<li>For the Gulf Coast and the five south western states, I will: ....... .......</li>
 
-For the coal states, I wll: ....... .......
+<li>For the coal states, I wll: ....... .......</li>
 
-For the East Coast, the North and the North eastern states, I will: ...... ......
+<li>For the East Coast, the North and the North eastern states, I will: ...... ......</li>
 
 And generally for the United Srates homeland, I will deploy ambient technology and ambience intelligence. With this type of system alone i will be able to:
 
-tackle infrastructure update.
-improve knowledge and accessibiity to the study of, the reasearch of, and the use of material technology in our schools.
-build roads, buildings, bridges and light our cities with ecologically certified materials.
-turn our cities and every single communal settlements all over the United states into digitally driven smart cities.
-improvesurvival, reach, capability and efficiency of our military and law enforcement officials.
+<li>tackle infrastructure update.</li>
+<li>improve knowledge and accessibiity to the study of, the reasearch of, and the use of material technology in our schools.</li>
+<li>build roads, buildings, bridges and light our cities with ecologically certified materials.</li>
+<li>turn our cities and every single communal settlements all over the United states into digitally driven smart cities.</li>
+<li>improvesurvival, reach, capability and efficiency of our military and law enforcement officials.</li>
 
 <p><b>So, put me in charge and see how I ReBuildUSatoday!</b></p>
 
